@@ -1,0 +1,73 @@
+{
+    "navbar": {
+        "login": "Login",
+        "signup": "Register",
+        "profile": "Profile",
+        "logout": "Logout"
+    },
+    "login_form": {
+        "welcome_to": "Welcome to",
+        "create_account_with": "Create Account with",
+        "email_or_phone": "Email or Phone",
+        "enter_your_email": "Enter your email",
+        "enter_password": "Enter Password",
+        "password": "Password",
+        "forgot_password": "Forgot Password"
+    },
+    "register_form": {
+        "signup_to": "Register to",
+        "username": "Username",
+        "enter_username": "Enter Username",
+        "email": "Email",
+        "enter_email": "Enter Email",
+        "confirm_password": "Confirm Password",
+        "enter_confirm_password": "Enter Confirm Password",
+        "submit": "Submit",
+        "back_to_login": "Back to login",
+        "register_bottom_text": "Register text"
+    },
+    "forgot_form": {
+        "forgot_text": "Forgot Mail",
+        "reset_password": "Reset Password"
+    },
+
+    "profile": {
+        "title": "Profile",
+        "name": "Name",
+        "phone": "Phone",
+        "skills": "Skill",
+        "work_exp": "Work Experience",
+        "education": "Education",
+        "interests": "Interests",
+        "more_info": "More Info",
+        "back_to_home": "Back to home",
+        "user_status": "Status",
+        "user_interests": "Interests",
+        "what_is_your_monthly_salary": "Monthly Salary",
+        "category_driving_licence": "Driving Licence",
+        "add": "Add",
+        "remove": "Remove",
+        "enter_company_name": "Company Name",
+        "enter_location": "Enter Location",
+        "enter_position": "Enter Position",
+        "month_year_start": "Start",
+        "month_year_end": "End",
+        "enter_your_skill": "Enter Skill",
+        "enter_school_college": "Enter School college",
+        "enter_city": "Enter City",
+        "enter_your_period": "Enter Period",
+        "save": "Save"
+
+    },
+    "messages": {
+        "skills_added": "Skills added",
+        "experience_added": "Experience Added",
+        "education_added": "Education Added",
+        "select_user_status": "Select User Status",
+        "fill_name": "Fill Name",
+        "fill_phone": "Fill Phone NO.",
+        "select_net_salary": "Select Net Salary",
+        "select_driving_licence": "Select Driving Licence"
+
+    }
+}
